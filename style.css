@@ -1,0 +1,26 @@
+#generateur{
+    width: 50%;
+    margin:0 auto;
+}
+
+div.ensemble{
+    padding: 1rem 0;
+    border-top: 1px solid #ccc;
+    margin-top:1rem;
+}
+
+h1{
+    margin:1rem auto 2rem auto;
+    text-align:center;
+}
+
+img#logo{
+    position:fixed;
+    left:50px;
+    top:50px;
+}
+
+
+body{
+    background:black;
+}
